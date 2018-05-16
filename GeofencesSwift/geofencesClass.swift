@@ -71,14 +71,14 @@ class Metods {
         return retorno
     }
     
-    // funcion de notificacion NO FUNCIONA--------------------!!!!!
+    /*/ funcion de notificacion NO FUNCIONA--------------------!!!!!
     func notify(msg : String) {
         let content = UNMutableNotificationContent()
         content.title = "notificacion de geofence"
         content.body = msg
         let request = UNNotificationRequest(identifier: "geofence", content: content, trigger: nil)
         UNUserNotificationCenter.current().add(request, withCompletionHandler: nil)
-    }
+    }*/
     
     //rellenado de array de posiciones por primera vez con algunos ejemplos
    /* func initGeoFencesExamples()-> [CLCircularRegion]{
