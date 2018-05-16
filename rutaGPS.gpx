@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <wpt lat="40.4494639" lon="-3.5824461">
+        <name>WP001</name>
+        <time>2018-05-16T12:23:50Z</time>
+    </wpt>
+    <wpt lat="40.4494015" lon="-3.5796263">
+        <name>WP002</name>
+        <time>2018-05-16T12:24:11Z</time>
+    </wpt>
+    <wpt lat="40.4476819" lon="-3.5797047">
+        <name>WP003</name>
+        <time>2018-05-16T12:24:29Z</time>
+    </wpt>
+    <wpt lat="40.4477134" lon="-3.5824167">
+        <name>WP004</name>
+        <time>2018-05-16T12:24:49Z</time>
+    </wpt>
+    <wpt lat="40.4462296" lon="-3.582567">
+        <name>WP005</name>
+        <time>2018-05-16T12:25:04Z</time>
+    </wpt>
+    <wpt lat="40.4461255" lon="-3.5784605">
+        <name>WP006</name>
+        <time>2018-05-16T12:25:36Z</time>
+    </wpt>
+    <wpt lat="40.4436927" lon="-3.5815696">
+        <name>WP007</name>
+        <time>2018-05-16T12:26:10Z</time>
+    </wpt>
+    <wpt lat="40.4436668" lon="-3.5815307">
+        <name>WP008</name>
+        <time>2018-05-16T12:26:11Z</time>
+    </wpt>
+    <wpt lat="40.4436293" lon="-3.5815471">
+        <name>WP009</name>
+        <time>2018-05-16T12:26:12Z</time>
+    </wpt>
+    <wpt lat="40.443568" lon="-3.5816731">
+        <name>WP010</name>
+        <time>2018-05-16T12:26:14Z</time>
+    </wpt>
+    <wpt lat="40.4423836" lon="-3.5819324">
+        <name>WP011</name>
+        <time>2018-05-16T12:26:26Z</time>
+    </wpt>
+    <wpt lat="40.4425414" lon="-3.583281">
+        <name>WP012</name>
+        <time>2018-05-16T12:26:36Z</time>
+    </wpt>
+    <wpt lat="40.4426146" lon="-3.5832591">
+        <name>WP013</name>
+        <time>2018-05-16T12:26:37Z</time>
+    </wpt>
+    <wpt lat="40.442984" lon="-3.5862748">
+        <name>WP014</name>
+        <time>2018-05-16T12:27:01Z</time>
+    </wpt>
+    <wpt lat="40.4467459" lon="-3.5860446">
+        <name>WP015</name>
+        <time>2018-05-16T12:27:39Z</time>
+    </wpt>
+    <wpt lat="40.4434532" lon="-3.5807431">
+        <name>WP016</name>
+        <time>2018-05-16T12:28:31Z</time>
+    </wpt>
+    <wpt lat="40.4434799" lon="-3.5781712">
+        <name>WP017</name>
+        <time>2018-05-16T12:28:51Z</time>
+    </wpt>
+    <wpt lat="40.4426909" lon="-3.5781229">
+        <name>WP018</name>
+        <time>2018-05-16T12:28:59Z</time>
+    </wpt>
+    <wpt lat="40.4416414" lon="-3.576361">
+        <name>WP019</name>
+        <time>2018-05-16T12:29:16Z</time>
+    </wpt>
+    <wpt lat="40.4432709" lon="-3.5755504">
+        <name>WP020</name>
+        <time>2018-05-16T12:29:34Z</time>
+    </wpt>
+    <wpt lat="40.4420479" lon="-3.5725655">
+        <name>WP021</name>
+        <time>2018-05-16T12:30:00Z</time>
+    </wpt>
+    <wpt lat="40.4420321" lon="-3.5716302">
+        <name>WP022</name>
+        <time>2018-05-16T12:30:07Z</time>
+    </wpt>
+    <wpt lat="40.4425738" lon="-3.57162">
+        <name>WP023</name>
+        <time>2018-05-16T12:30:13Z</time>
+    </wpt>
+    <wpt lat="40.4450256" lon="-3.5685552">
+        <name>WP024</name>
+        <time>2018-05-16T12:30:47Z</time>
+    </wpt>
+</gpx>
+
